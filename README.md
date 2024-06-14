@@ -12,7 +12,7 @@ GitHub: https://github.com/ltrungg
 Quá trình học tập
 Tại Đại học FPT, tôi đã và đang được trang bị những kiến thức cơ bản và nâng cao về công nghệ thông tin, bao gồm:
 
-Ngôn Ngữ: Đã hoàn thành xuất sắc chương trình tiến anh chuẩn bị tại Malaysia
+Ngôn Ngữ: Đã hoàn thành xuất sắc chương trình tiến anh chuẩn bị tại Malaysia.
 Lập trình: C, C++, C#, Java, 
 Cơ sở dữ liệu: MySQL, PostgreSQL
 Phát triển web: HTML, CSS, JavaScript, ReactJS
