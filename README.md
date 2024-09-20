@@ -46,3 +46,17 @@ Trong tương lai, tôi mong muốn:
 - Trở thành một Developer chuyên nghiệp, có khả năng giải quyết các vấn đề phức tạp và đóng góp tích cực cho cộng đồng công nghệ.
 
 Cảm ơn bạn đã ghé thăm trang của tôi. Rất mong nhận được sự hỗ trợ và góp ý từ cộng đồng để tôi có thể phát triển hơn nữa. Nếu bạn có bất kỳ câu hỏi hay cần trao đổi, đừng ngần ngại liên hệ với tôi qua email hoặc các kênh liên lạc khác.
+
++--------------------+          0..*        +-----------------------+
+|      Guitar        | <--------------------|      Inventory         |
++--------------------+                      +-----------------------+
+| - serialNumber: String |                  | - guitars: List<Guitar> |
+| - price: double    |                      +-----------------------+
+| - builder: String  |                      | + addGuitar(guitar: Guitar): void |
+| - model: String    |                      | + searchGuitar(serialNumber: String): Guitar |
+| - backWood: String |                      +-----------------------+
+| - topWood: String  |
++--------------------+
+| + createSound(): void |
++--------------------+
+
