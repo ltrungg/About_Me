@@ -29,7 +29,7 @@ Tại Đại học FPT, tôi đã và đang được trang bị những kiến t
 
 ### Dự án 1: Brother ̃& Sister
  **Mô tả**: Là một dự án của trường Đại Học FPT, giúp các bạn học mới vào trường đỡ bị bỡ ngỡ và nhận được hỗ trợ những thắc mắc, hay biết thêm kinh nghiệm từ các Brother hay Sister.
-- **Vai trò**: Tổ chức, quản lí sự kiện. Giải quuyết thắc mắc, cung cấp kiến thức, hạn chế sai lầm và tạo động lực cho các bạn sinh viên mới vào trường. 
+- **Vai trò**: Tổ chức, quản lí sự kiện. Giải quyết thắc mắc, cung cấp kiến thức, hạn chế sai lầm và tạo động lực cho các bạn sinh viên mới vào trường. 
 
 ### Dự án 2: Website định giá và buôn bán đồng hồ cũ 
 
